@@ -284,6 +284,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = R7Y7KSCQ5L;
 				INFOPLIST_FILE = SlipMyMindSecond/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -300,6 +301,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = R7Y7KSCQ5L;
 				INFOPLIST_FILE = SlipMyMindSecond/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
