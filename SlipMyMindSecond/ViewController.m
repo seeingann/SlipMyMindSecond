@@ -18,6 +18,9 @@
     [super viewDidLoad];
     
     NSLog(@"I want to say ...");
+    for (NSInteger i = 0; i < 10; ++i) {
+        NSLog(@"I am %ld", i);
+    }
 }
 
 
