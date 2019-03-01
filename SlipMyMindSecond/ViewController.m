@@ -21,6 +21,12 @@
     for (NSInteger i = 0; i < 10; ++i) {
         NSLog(@"I am %ld", i);
     }
+    
+    NSLog(@"I want to know...");
+    
+    UIButton *btn = [UIButton buttonWithType:UIButtonTypeInfoLight];
+    btn.frame = CGRectMake(100, 100, 100, 100);
+    [self.view addSubview:btn];
 }
 
 
